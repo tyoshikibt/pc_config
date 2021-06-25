@@ -1,0 +1,16 @@
+ThemeFile=xterm
+Transparency=low
+CursorType=line
+Font=Consolas
+Font2=Meiryo
+FontChoice=Hiragana:2;Katakana:2;Han:2
+FontHeight=11
+Locale=ja_JP
+Charset=UTF-8
+Scrollbar=right
+BellType=0
+OpaqueWhenFocused=no
+BackgroundColour=26,39,59
+Language=ja
+ForegroundColour=192,192,192
+BoldAsColour=yes

@@ -1,0 +1,19 @@
+# This is Git's per-user configuration file.
+[user]
+#
+# Please adapt and uncomment the following lines:
+#	name = 
+#	email = 
+[core]
+	editor = emacs
+	quotepath = false
+	autoCRLF = false
+	
+[color "branch"]
+       upstream = bold cyan
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[alias]
+	s = status
